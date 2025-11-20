@@ -101,7 +101,8 @@ Run simulation using Simulation → Run Functional Simulation.
 Observe Sum, Carry, Difference, and Borrow waveforms.
 Compare with the truth table.
 
-
+DEVELOPED BY:dhivyashree.R
+register number:25016639
 **Program:**
 full adder
 ```
