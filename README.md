@@ -136,7 +136,7 @@ full subractor
 
 **Output Timing Waveform**
 <img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/e668c924-5e18-4f43-bce8-5a38c46ad11e" />
-<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/43357695-fcde-4073-9619-fdb6e368b63f" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/951e6f17-242e-496c-bcfe-5e51d18a46f0" />
 
 **Result:**
 
